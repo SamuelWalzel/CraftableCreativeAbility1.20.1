@@ -1,0 +1,21 @@
+{
+  "group": "craftable_creative_upgrade",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "1",
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "tconstruct:tinkers_anvil"
+    },
+    "1": {
+      "item": "minecraft:iron_block"
+    }
+  },
+  "result": {
+    "item": "tconstruct:creative_slot",
+    "count": 5,
+    "nbt": {"slot":"upgrades"}
+  }
+}
